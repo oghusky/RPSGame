@@ -14,3 +14,6 @@
 - Game piece pictures aren't centered on smaller screens
 - Choose winner after a certain amount of points
 
+## Link to deployed application
+https://oghusky.github.io/RPSGame/
+
